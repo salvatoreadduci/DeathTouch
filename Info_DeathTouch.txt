@@ -1,0 +1,13 @@
+The game is to try to complete as many levels as possible by killing 
+the enemies, thus obtaining the highest possible highscore.
+Warning! Having only one life available,
+the game ends when the main character collides with an enemy of any kind.
+
+MAP EDITOR: This function allows the user to create a map according 
+to his tastes by having different types of blocks available.
+Warning! Pay particular attention to the type of block you choose as you 
+may have bad surprises in game!
+
+CUSTOM MODE: The player can choose to play on the previously created custom 
+maps.
+
